@@ -1,0 +1,17 @@
+{
+    "name": "simple-rest-api",
+    "version": "1.0.0",
+    "description": "SIMPLE REST API",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "test": "",
+        "serve": "node ."
+    },
+    "author": "domin",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "sqlite3": "^5.1.6"
+    }
+}
